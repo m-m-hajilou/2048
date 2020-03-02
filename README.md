@@ -5,4 +5,5 @@
 یاعلی
 IN THE NAME OF ALLAH 
 This  is language c game 2048 
+All files are available at https://github.com/m-m-hajilou/project-class.git, but copied to clean repositories
 YA ALI
