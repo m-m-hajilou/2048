@@ -1,16 +1,21 @@
 # game 2048
-<h1> به نام مهندس گیتی </h1> 
-<h3>
+<h2> به نام مهندس گیتی </h2> 
+<h4>
 این بروژه بازی 2048 (3در3)به زبان سی است
-</h3>
-<h3> حرکت  با اعداد 8و4و2و6 است</h3>
-<h3>  به اینجا آورده استhttps://github.com/m-m-hajilou/project-class.gitپروژه جهت مرتب سازی از </h3>
-<h1>
+</h4>
+<h4> حرکت  با اعداد 8و4و2و6 است</h4>
+<h4>  دراینجا هم آورده شده استhttps://github.com/m-m-hajilou/project-class.gitپروژه جهت مرتب سازی از </h4>
+<h2>
 خدانگدارتان
 یاعلی
-</h1>
+</h2>
 
-IN THE NAME OF ALLAH 
-This  is language c game 2048 
-All files are available at https://github.com/m-m-hajilou/project-class.git, but copied to clean repositories
+<h2>IN THE NAME WORLD ENGINEER </h2>
+<h4>
+This is a 2048 (3 in 3) bracket in C language
+</h4>
+<h4> Moves with numbers 8, 4, 2 and 6 </h4>
+<h4> Also stored here at https://github.com/m-m-hajilou/project-class.git Sort Management Project </h4>
+<h2>
 YA ALI
+</h2>
